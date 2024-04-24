@@ -1,0 +1,12 @@
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\bin\Debug\net5.0\Loja.Business.deps.json
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\bin\Debug\net5.0\Loja.Business.dll
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\bin\Debug\net5.0\Loja.Business.pdb
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\Loja.Business.csproj.AssemblyReference.cache
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\Loja.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\Loja.Business.AssemblyInfoInputs.cache
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\Loja.Business.AssemblyInfo.cs
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\Loja.Business.csproj.CoreCompileInputs.cache
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\Loja.Business.dll
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\refint\Loja.Business.dll
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\Loja.Business.pdb
+C:\Users\Iuri\Documents\Programação\LojaCompleta\src\Loja.Business\obj\Debug\net5.0\ref\Loja.Business.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Y+SxJekqFNmCbr8fglDR5Q2R1ciYt6O9rkZXU1xFslADRihCnaI2Z0SswbfJmul3MNV11SaWMGB1LWetl78Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iuri\\Documents\\Programação\\LojaCompleta\\src\\Loja.Business\\Loja.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iuri\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
